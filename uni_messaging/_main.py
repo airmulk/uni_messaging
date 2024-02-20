@@ -1,4 +1,8 @@
 from __future__ import annotations
+import argparse
+import sys
+from typing import Iterable
+from typing import Sequence
 
 def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser()
