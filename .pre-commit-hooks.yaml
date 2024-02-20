@@ -1,0 +1,6 @@
+-   id: uni_messaging
+    name: uni_messaging
+    description: Automatically sample text
+    entry: uni_messaging
+    language: python
+    types: [python]
